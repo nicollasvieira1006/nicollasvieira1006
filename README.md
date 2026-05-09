@@ -4,7 +4,7 @@
 
 💻 Estudando Python, Java e lógica de programação
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas
+📚 Formado em Análise e Desenvolvimento de Sistemas
 
 🚀 Criando projetos reais para automação e utilidades do dia a dia
 
@@ -45,4 +45,13 @@ Projetos básicos para aprendizado da linguagem e orientação a objetos.
 
 ## 🎯 Objetivo
 
-Conseguir minha primeira oportunidade como Desenvolvedor Júnior e evoluir na área de tecnologia criando soluções úteis e práticas.
+Utilizar dados e tecnologia para criar soluções inteligentes, eficientes e baseadas em evidências, auxiliando empresas na tomada de decisões estratégicas. Busco evoluir continuamente como analista e desenvolvedor, aplicando boas práticas de programação, análise de dados e automação de processos, sempre com foco em gerar impacto real e mensurável.
+
+---
+
+## 🔗 Contato
+
+- 📧 nicollasvieira1005@gmail.com  
+- 📍 São Paulo - SP  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nicollasvieiraalves) |
+- 🌐 [GitHub](https://github.com/nicollasvieira1006)  
