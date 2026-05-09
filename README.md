@@ -5,6 +5,14 @@
 
 # Olá, eu sou o Nicollas 👋
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 🎯 Em transição para Desenvolvimento de Software
 
 💻 Estudando Python, Java e lógica de programação
@@ -50,7 +58,7 @@ Projetos básicos para aprendizado da linguagem e orientação a objetos.
 
 ## 🎯 Objetivo
 
-Utilizar dados e tecnologia para criar soluções inteligentes, eficientes e baseadas em evidências, auxiliando empresas na tomada de decisões estratégicas. Busco evoluir continuamente como analista e desenvolvedor, aplicando boas práticas de programação, análise de dados e automação de processos, sempre com foco em gerar impacto real e mensurável.
+Conquistar minha primeira oportunidade como Desenvolvedor Júnior, criando soluções práticas com automação, backend e análise de dados.
 
 ---
 
