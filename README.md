@@ -1,8 +1,11 @@
 # Olá, eu sou o Nicollas 👋
 
 🎯 Em transição para Desenvolvimento de Software
+
 💻 Estudando Python, Java e lógica de programação
+
 📚 Estudante de Análise e Desenvolvimento de Sistemas
+
 🚀 Criando projetos reais para automação e utilidades do dia a dia
 
 ---
